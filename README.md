@@ -1,7 +1,7 @@
 # BookNotes_Deep_Learning
 My reading notes of the book **Deep Learning** by Goodfellow et al.
 
-Chaper 1 - [Introduction](https://github.com/itacdonev/Deep_Learning_Book/blob/master/CH1_Introduction/Chapter%201%20-%20Introduction.pdf)  
+Chaper 1 - [Introduction](https://github.com/itacdonev/BookNotes_Deep_Learning/blob/master/CH1_Introduction/Chapter%201%20-%20Introduction.pdf)  
 
 **PART I**  
 Chapter 2 - Linear Algebra   
