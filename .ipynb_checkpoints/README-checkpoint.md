@@ -4,7 +4,7 @@ My reading notes of the book **Deep Learning** by Goodfellow et al.
 Chaper 1 - [Introduction](https://github.com/itacdonev/BookNotes_Deep_Learning/blob/master/CH1_Introduction/Chapter%201%20-%20Introduction.pdf)  
 
 **PART I**  
-Chapter 2 - Linear Algebra   
+Chapter 2 - [Linear Algebra](https://github.com/itacdonev/BookNotes_Deep_Learning/blob/master/CH2_Linear_Algebra/Chapter%202%20-%20Linear%20Algebra.pdf)   
 Chapter 3 - Probability and Information Theory  
 Chapter 4 - Numerical Computation  
 Chapter 5 - Machine Learning Basics  
